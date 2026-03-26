@@ -1,1 +1,1 @@
-"my feature"
+"feature"
